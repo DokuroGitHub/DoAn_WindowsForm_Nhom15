@@ -1,6 +1,216 @@
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
-C:\Users\dovt5\Desktop\winForm_nhom15\Code_Nhom15_lastFinished25_6_9_55pm\DoAn_LapTrinhWindowsForm_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmMainGUI.resources
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_31_5\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\LTwindows_31_5 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmMainGUI.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\BarcodeLib.dll
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Winform-20200617T220503Z-001\Do An Winform\doAn_15\LTwindows_4_6_11_36 - Copy\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\LTwindows_18_6_6_36\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Admin\Desktop\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_18_6_11_06\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\Do An Win\Do An Win\QR_15 (1)\QR_15\LTwindows_25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe.config
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\Nhom15_QuanLySanPham.pdb
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmitem.resources
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Properties.Resources.resources
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.Views.frmUI.resources
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.exe
+C:\Users\dovt5\Desktop\final\Code_Nhom15_lastFinished25_6_9_55pm\18110270_LTWindows\obj\Debug\Nhom15_QuanLySanPham.pdb

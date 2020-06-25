@@ -1,0 +1,102 @@
+C:\Users\dovt5\Desktop\x\New folder\bin\Debug\18110354_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\x\New folder\bin\Debug\18110354_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x\New folder\bin\Debug\18110354_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\_18110354_TaskManagerment.frmMainGUI.resources
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\_18110354_TaskManagerment.frmTaskManager.resources
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\_18110354_TaskManagerment.frmUser.resources
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\_18110354_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\18110354_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x\New folder\obj\Debug\18110354_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.frmMainGUI.resources
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.frmTaskManager.resources
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.frmUser.resources
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmTaskManager.resources
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmUser.resources
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.CopyComplete
+C:\Users\dovt5\Desktop\x - Copy\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmTaskManager.resources
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmUser.resources
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.CopyComplete
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\1\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmTaskManager.resources
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmUser.resources
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.CopyComplete
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\18110270\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmTaskManager.resources
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmUser.resources
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.CopyComplete
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\1\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe.config
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.dll
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.xml
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csprojAssemblyReference.cache
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmMainGUI.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Properties.Resources.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.GenerateResource.cache
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.csproj.CopyComplete
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.exe
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\18110270_TaskManagerment.pdb
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmNCC.resources
+C:\Users\dovt5\Desktop\30_5\18110270_27_5\18110270_LTWindows\obj\Debug\_18110270_TaskManagerment.Views.frmitem.resources
